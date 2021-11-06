@@ -1,0 +1,33 @@
+<ion-header class="ion-no-border" [translucent]="true">
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/" icon="chevron-back"></ion-back-button>
+    </ion-buttons>
+    <ion-title>EXCHANGES</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content >
+  <ion-list class="ios list-ios hydrated" >
+    <ion-list-header class="ios hydrated">
+      POPULAR EXCHANGES
+    </ion-list-header>
+
+    <ion-item *ngFor="let exchange of exchanges">
+      <ion-item href="{{exchange.href}}" >
+       <ion-thumbnail slot="start" class="ios hydrated">
+        <img [src]="'' + exchange.immagine">
+      </ion-thumbnail>
+      <ion-label>
+        <h2>{{exchange.titolo}}</h2>
+        <!--<h3></h3>-->
+        <p>Descrizione: {{exchange.descrizione}}</p>
+      </ion-label>
+    </ion-item>
+    </ion-item>
+  </ion-list>
+
+</ion-content>
+
+
+

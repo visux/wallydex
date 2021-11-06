@@ -1,0 +1,30 @@
+<ion-header class="ion-no-border" [translucent]="true">
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/" icon="chevron-back"></ion-back-button>
+    </ion-buttons>
+    <ion-title>xDAI</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content >
+  <ion-list class="ios list-ios hydrated" >
+    <ion-list-header class="ios hydrated">
+      xDAI NETWORK
+    </ion-list-header>
+
+    <ion-item *ngFor="let xd of xdai">
+      <ion-item href="{{xd.href}}" >
+       <ion-thumbnail slot="start" class="ios hydrated">
+        <img [src]="'' + xd.immagine">
+      </ion-thumbnail>
+      <ion-label>
+        <h2>{{xd.titolo}}</h2>
+        <!--<h3></h3>-->
+        <p>Descrizione: {{xd.descrizione}}</p>
+      </ion-label>
+    </ion-item>
+    </ion-item>
+  </ion-list>
+
+</ion-content>

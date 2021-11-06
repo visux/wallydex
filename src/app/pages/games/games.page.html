@@ -1,0 +1,30 @@
+<ion-header class="ion-no-border" [translucent]="true">
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/" icon="chevron-back"></ion-back-button>
+    </ion-buttons>
+    <ion-title>GAMES</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content >
+  <ion-list class="ios list-ios hydrated" >
+    <ion-list-header class="ios hydrated">
+      GAMES
+    </ion-list-header>
+
+    <ion-item *ngFor="let game of games">
+      <ion-item href="{{game.href}}" >
+       <ion-thumbnail slot="start" class="ios hydrated">
+        <img [src]="'' + game.immagine">
+      </ion-thumbnail>
+      <ion-label>
+        <h2>{{game.titolo}}</h2>
+        <!--<h3></h3>-->
+        <p>Descrizione: {{game.descrizione}}</p>
+      </ion-label>
+    </ion-item>
+    </ion-item>
+  </ion-list>
+
+</ion-content>
