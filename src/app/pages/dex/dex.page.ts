@@ -1,3 +1,4 @@
+import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,9 +8,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DexPage implements OnInit {
 
-  constructor() { }
+  populexchanges: any;
+  constructor(private http: HttpClient) { }
 
-  ngOnInit() {
+  ngOnInit(): void {
+    this.http.get('./../../assets/json/populexchanges.json').subscribe((data: any) => {
+      this.populexchanges = data;
+    });
   }
 
 }
+
+
+
+
+  

@@ -1,0 +1,30 @@
+[
+    {
+        "href":"https://uniswap.exchange/",
+        "target":"_blank",
+        "titolo": "Uniswap",
+        "descrizione": "Most Popular Exchange",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Uniswap.png"
+    },
+    {
+        "href":"https://1inch.exchange/",
+        "target":"_blank",
+        "titolo": "1inch",
+        "descrizione": "Leading DEX Aggregator",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/1inch.png"
+    },
+    {
+        "href":"https://pancakeswap.finance/",
+        "target":"_blank",
+        "titolo": "Pancake Swap",
+        "descrizione": "Decentralized Exchange on BSC",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Pancake-Swap.png"
+    },
+    {
+        "href":"https://quickswap.exchange/#/swap",
+        "target":"_blank",
+        "titolo": "QuickSwap",
+        "descrizione": "Most Popular DEX on Polygon",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Quickswap.png"
+    }
+]

@@ -99,7 +99,7 @@ export class CoinDetailPage extends BasePage implements OnInit {
         labels: labels,
         datasets: [{
           data: coinHistory,
-          borderColor: '#f8f8f8',
+          borderColor: '#ff324d',
           fill: false
         }]
       },
@@ -117,10 +117,10 @@ export class CoinDetailPage extends BasePage implements OnInit {
         responsive: true,
         scales: {
           xAxes: {
-            display: false
+            display: true
           },
           yAxes: {
-            display: false
+            display: true
           }
         }
       }

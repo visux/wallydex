@@ -104,5 +104,22 @@
     
   </ion-grid>
 
-  
+  <h1>POPULAR EXCHANGES</h1>
+
+  <ion-list class="ios list-ios hydrated" >
+   
+    <ion-item *ngFor="let exchange of populexchanges">
+      <ion-item href="{{exchange.href}}" >
+       <ion-thumbnail slot="start" class="ios hydrated">
+        <img [src]="'' + exchange.immagine">
+      </ion-thumbnail>
+      <ion-label>
+        <h2>{{exchange.titolo}}</h2>
+        <!--<h3></h3>-->
+        <p>Description: {{exchange.descrizione}}</p>
+      </ion-label>
+    </ion-item>
+    </ion-item>
+  </ion-list>
+
 </ion-content>
