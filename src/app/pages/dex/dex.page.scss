@@ -19,6 +19,18 @@ img.lazyload{
 .bottonerilievo{
     margin-right: auto;
     height: 80px;
-    width: 70px;
+    width: 100%;
     margin-left: auto;
 }
+
+ion-col.md.hydrated {
+  text-align: center;
+}
+
+h1{
+  text-transform: uppercase;
+  padding-left: 20px;
+  font-size: large;
+}
+
+//.bottonerilievo:hover {--background-hover: #333333}
