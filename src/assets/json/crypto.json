@@ -1,114 +1,58 @@
 [
     {
-        "href":"https://uniswap.exchange/",
+        "href":"https://instant.ramp.network/buy/",
         "target":"_blank",
-        "titolo": "Uniswap",
-        "descrizione": "Most Popular Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Uniswap.png"
+        "titolo": "Ramp Network",
+        "descrizione": "Fiat to crypto atomic swaps",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Ramp.png"
     },
     {
-        "href":"https://1inch.exchange/",
+        "href":"https://opensea.io/",
         "target":"_blank",
-        "titolo": "1inch",
-        "descrizione": "Leading DEX Aggregator",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/1inch.png"
+        "titolo": "OpenSea",
+        "descrizione": "Buy, sell, trade NFT assets",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/OpenSea.png"
     },
     {
-        "href":"https://pancakeswap.finance/",
+        "href":"https://pay.sendwyre.com/purchase",
         "target":"_blank",
-        "titolo": "Pancake Swap",
-        "descrizione": "Decentralized Exchange on BSC",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Pancake-Swap.png"
+        "titolo": "Wyre",
+        "descrizione": "Buy crypto with Apple Pay",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Wyre.png"
     },
     {
-        "href":"https://quickswap.exchange/#/swap",
+        "href":"https://buy.moonpay.io/",
         "target":"_blank",
-        "titolo": "QuickSwap",
-        "descrizione": "Most Popular DEX on Polygon",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Quickswap.png"
+        "titolo": "MoonPay",
+        "descrizione": "New standard for fiat to crypto",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/MoonPay.png"
     },
     {
-        "href":"https://balancer.exchange/",
+        "href":"https://oasis.app/",
         "target":"_blank",
-        "titolo": "Balancer",
-        "descrizione": "Protocol for programmable liquidity",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Balancer.png"
+        "titolo": "MakerDAO CDP",
+        "descrizione": "Trade, borrow and save with DAI",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Maker.png"
     },
     {
-        "href":"http://www.cofix.io/",
+        "href":"https://transak.com/",
         "target":"_blank",
-        "titolo": "CoFiX",
-        "descrizione": "On-Chain Market Making",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/10/CoFiX.png"
+        "titolo": "Transak",
+        "descrizione": "Buy crypto with FIAT money",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Transak.png"
     },
     {
-        "href":"https://synthetix.exchange/",
+        "href":"https://localcryptos.com/offers",
         "target":"_blank",
-        "titolo": "Synthetix",
-        "descrizione": "On-chain exposure to any asset",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Synthetix.png"
+        "titolo": "Localcryptos",
+        "descrizione": "Peer-to-peer ETH marketplace",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Localcryptos-1.png"
     },
     {
-        "href":"https://sushiswap.fi/",
+        "href":"https://www.buda.com/ingreso",
         "target":"_blank",
-        "titolo": "Sushiswap",
-        "descrizione": "Vampire fork of Uniswap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/SushiSwap.png"
-    },
-    {
-        "href":"https://exchange.loopring.io/",
-        "target":"_blank",
-        "titolo": "Loopring",
-        "descrizione": "zkRollup Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Loopring.png"
-    },
-    {
-        "href":"https://trade.dydx.exchange/",
-        "target":"_blank",
-        "titolo": "Dydx",
-        "descrizione": "Non-custodial trading platform",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Dydx.png"
-    },
-    {
-        "href":"https://app.bancor.network/eth/data",
-        "target":"_blank",
-        "titolo": "Bancor",
-        "descrizione": "Exchange for ERC20 tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Bancor.png"
-    },
-    {
-        "href":"https://kyberswap.com/",
-        "target":"_blank",
-        "titolo": "KyberSwap",
-        "descrizione": "One Exchange. Unlimited Trading",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Swap.png"
-    },
-    {
-        "href":"https://tokenlon.im/instant",
-        "target":"_blank",
-        "titolo": "Tokenlon",
-        "descrizione": "DEX powered by 0x protocol.",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Tokenlon.png"
-    },
-    {
-        "href":"https://ddex.io/margin/",
-        "target":"_blank",
-        "titolo": "DDEX Margin",
-        "descrizione": "Trade with levarage",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/ddex.png"
-    },
-    {
-        "href":"https://instant.airswap.io/swap",
-        "target":"_blank",
-        "titolo": "AirSwap",
-        "descrizione": "Automated trading for ETH tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Airswap.png"
-    },
-    {
-        "href":"https://app.nuo.network/",
-        "target":"_blank",
-        "titolo": "Nuo",
-        "descrizione": "Seamless DeFi Swap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Nuo.png"
+        "titolo": "Buda",
+        "descrizione": "Compra bitcoin, ether y má",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Buda-1.png"
     }
 ]

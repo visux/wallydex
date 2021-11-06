@@ -1,114 +1,100 @@
 [
     {
-        "href":"https://uniswap.exchange/",
+        "href":"https://kyber.org/migrate",
         "target":"_blank",
-        "titolo": "Uniswap",
-        "descrizione": "Most Popular Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Uniswap.png"
+        "titolo": "Kyber KNC Migration",
+        "descrizione": "Migrate from KNC Legacy to the new KNC",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/05/Kyber_Migrate.png"
     },
     {
-        "href":"https://1inch.exchange/",
+        "href":"https://da.systems/",
         "target":"_blank",
-        "titolo": "1inch",
-        "descrizione": "Leading DEX Aggregator",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/1inch.png"
+        "titolo": "DAS",
+        "descrizione": "Future-proof, cross-chain decentralized account system",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/10/DAS.png"
     },
     {
-        "href":"https://pancakeswap.finance/",
-        "target":"_blank",
-        "titolo": "Pancake Swap",
-        "descrizione": "Decentralized Exchange on BSC",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Pancake-Swap.png"
-    },
-    {
-        "href":"https://quickswap.exchange/#/swap",
-        "target":"_blank",
-        "titolo": "QuickSwap",
-        "descrizione": "Most Popular DEX on Polygon",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Quickswap.png"
-    },
-    {
-        "href":"https://balancer.exchange/",
-        "target":"_blank",
-        "titolo": "Balancer",
-        "descrizione": "Protocol for programmable liquidity",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Balancer.png"
-    },
-    {
-        "href":"http://www.cofix.io/",
-        "target":"_blank",
-        "titolo": "CoFiX",
-        "descrizione": "On-Chain Market Making",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/10/CoFiX.png"
-    },
-    {
-        "href":"https://synthetix.exchange/",
+        "href":"https://staking.synthetix.io/",
         "target":"_blank",
         "titolo": "Synthetix",
-        "descrizione": "On-chain exposure to any asset",
+        "descrizione": "For SNX holders to earn rewards",
         "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Synthetix.png"
     },
     {
-        "href":"https://sushiswap.fi/",
+        "href":"https://faucet.ropsten.be/",
         "target":"_blank",
-        "titolo": "Sushiswap",
-        "descrizione": "Vampire fork of Uniswap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/SushiSwap.png"
+        "titolo": "Ropsten Faucet",
+        "descrizione": "Ropsten Testnet Faucet",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/11/Faucet_Ropsten.png"
     },
     {
-        "href":"https://exchange.loopring.io/",
+        "href":"https://faucet.metamask.io/",
         "target":"_blank",
-        "titolo": "Loopring",
-        "descrizione": "zkRollup Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Loopring.png"
+        "titolo": "Metamask Faucet",
+        "descrizione": "Ropsten Testnet Ethereum Faucet",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/11/Faucet_Metamask.png"
     },
     {
-        "href":"https://trade.dydx.exchange/",
+        "href":"https://etherscan.io/",
         "target":"_blank",
-        "titolo": "Dydx",
-        "descrizione": "Non-custodial trading platform",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Dydx.png"
+        "titolo": "Etherescan",
+        "descrizione": "Ethereum blockchain explorer",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Etherscan.png"
     },
     {
-        "href":"https://app.bancor.network/eth/data",
+        "href":"https://faucet.kyber.network/",
         "target":"_blank",
-        "titolo": "Bancor",
-        "descrizione": "Exchange for ERC20 tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Bancor.png"
+        "titolo": "Faucet Dimensions Network",
+        "descrizione": "Ethereum Faucet Ropsten",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/11/Faucet_Dimensions_Network.png"
     },
     {
-        "href":"https://kyberswap.com/",
+        "href":"http://faucet.kyber.network/",
         "target":"_blank",
-        "titolo": "KyberSwap",
-        "descrizione": "One Exchange. Unlimited Trading",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Swap.png"
+        "titolo": "Faucet Kyber Network",
+        "descrizione": "Ropsten Faucet from Kyber",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/11/Faucet_Kyber.png"
     },
     {
-        "href":"https://tokenlon.im/instant",
+        "href":"https://app.ens.domains/",
         "target":"_blank",
-        "titolo": "Tokenlon",
-        "descrizione": "DEX powered by 0x protocol.",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Tokenlon.png"
+        "titolo": "Ethereum Name Services",
+        "descrizione": "Human readable names for ETH",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/ENS_dapp.png"
     },
     {
-        "href":"https://ddex.io/margin/",
+        "href":"https://mintable.app/",
         "target":"_blank",
-        "titolo": "DDEX Margin",
-        "descrizione": "Trade with levarage",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/ddex.png"
+        "titolo": "Mintable",
+        "descrizione": "Mint digital assets on Ethereum",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Mintable_dapp.png"
     },
     {
-        "href":"https://instant.airswap.io/swap",
+        "href":"https://ethgasstation.info/index.php",
         "target":"_blank",
-        "titolo": "AirSwap",
-        "descrizione": "Automated trading for ETH tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Airswap.png"
+        "titolo": "ETH Gas Station",
+        "descrizione": "ETH gas price recommendations",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/ETHgastation.png"
     },
     {
-        "href":"https://app.nuo.network/",
+        "href":"https://gitcoin.co/",
         "target":"_blank",
-        "titolo": "Nuo",
-        "descrizione": "Seamless DeFi Swap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Nuo.png"
+        "titolo": "Gitcoin",
+        "descrizione": "Get paid for working on open source",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Gitcoin.png"
+    },
+    {
+        "href":"https://tbull.live/",
+        "target":"_blank",
+        "titolo": "TBULL Utility Token",
+        "descrizione": "Utility Token on BSC for Payments for Services",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/05/Tbull.png"
+    },
+    {
+        "href":"https://scv.finance/",
+        "target":"_blank",
+        "titolo": "SCV Finance",
+        "descrizione": "Navigate through DeFi possibilities",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/01/SCV.finance.png"
     }
 ]

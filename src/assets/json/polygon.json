@@ -1,24 +1,24 @@
 [
     {
-        "href":"https://uniswap.exchange/",
+        "href":"https://wallet.matic.network/bridge/",
         "target":"_blank",
-        "titolo": "Uniswap",
-        "descrizione": "Most Popular Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Uniswap.png"
+        "titolo": "Matic Bridge",
+        "descrizione": "Mainnet Ethereum to Polygon Bridge",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/05/Matic_Bridge.png"
+    },
+	{
+        "href":"https://aave.com/",
+        "target":"_blank",
+        "titolo": "Aave",
+        "descrizione": "Earn with Interest",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Aave.png"
     },
     {
-        "href":"https://1inch.exchange/",
+        "href":"https://polymarket.com/",
         "target":"_blank",
-        "titolo": "1inch",
-        "descrizione": "Leading DEX Aggregator",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/1inch.png"
-    },
-    {
-        "href":"https://pancakeswap.finance/",
-        "target":"_blank",
-        "titolo": "Pancake Swap",
-        "descrizione": "Decentralized Exchange on BSC",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Pancake-Swap.png"
+        "titolo": "Polymarket",
+        "descrizione": "Information Markets platform",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Polymarket.png"
     },
     {
         "href":"https://quickswap.exchange/#/swap",
@@ -28,87 +28,59 @@
         "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Quickswap.png"
     },
     {
-        "href":"https://balancer.exchange/",
+        "href":"https://aavegotchi.com/",
         "target":"_blank",
-        "titolo": "Balancer",
-        "descrizione": "Protocol for programmable liquidity",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Balancer.png"
+        "titolo": "Aavegotchi",
+        "descrizione": "DeFi-focused NFT",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Aavegotchi.png"
     },
     {
-        "href":"http://www.cofix.io/",
+        "href":"https://sportx.bet/",
         "target":"_blank",
-        "titolo": "CoFiX",
-        "descrizione": "On-Chain Market Making",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/10/CoFiX.png"
+        "titolo": "SportX",
+        "descrizione": "P2P Sports Betting",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/SportsX.png"
     },
     {
-        "href":"https://synthetix.exchange/",
+        "href":"https://decentral.games/",
         "target":"_blank",
-        "titolo": "Synthetix",
-        "descrizione": "On-chain exposure to any asset",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Synthetix.png"
+        "titolo": "Decentral Games",
+        "descrizione": "Community-owned casino",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Decentral_Games.png"
     },
     {
-        "href":"https://sushiswap.fi/",
+        "href":"https://www.easyfi.network/",
         "target":"_blank",
-        "titolo": "Sushiswap",
-        "descrizione": "Vampire fork of Uniswap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/SushiSwap.png"
+        "titolo": "EasyFi",
+        "descrizione": "Lending Protocol for Digital Assets",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/easyfi.png"
     },
     {
-        "href":"https://exchange.loopring.io/",
+        "href":"https://zed.run/home/start",
         "target":"_blank",
-        "titolo": "Loopring",
-        "descrizione": "zkRollup Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Loopring.png"
+        "titolo": "Zed Run",
+        "descrizione": "Future of digital horse ownership",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Zed.png"
     },
     {
-        "href":"https://trade.dydx.exchange/",
+        "href":"https://swapmatic.io/swap",
         "target":"_blank",
-        "titolo": "Dydx",
-        "descrizione": "Non-custodial trading platform",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Dydx.png"
+        "titolo": "Swapmatic",
+        "descrizione": "Uniswap on Matic Network",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Swapmatic.png"
     },
     {
-        "href":"https://app.bancor.network/eth/data",
+        "href":"https://artvatars.com/",
         "target":"_blank",
-        "titolo": "Bancor",
-        "descrizione": "Exchange for ERC20 tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Bancor.png"
+        "titolo": "Artvatars",
+        "descrizione": "Biggest NFT collab ever!",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Artvatars.png"
     },
     {
-        "href":"https://kyberswap.com/",
+        "href":"https://www.cometh.io/",
         "target":"_blank",
-        "titolo": "KyberSwap",
-        "descrizione": "One Exchange. Unlimited Trading",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Swap.png"
-    },
-    {
-        "href":"https://tokenlon.im/instant",
-        "target":"_blank",
-        "titolo": "Tokenlon",
-        "descrizione": "DEX powered by 0x protocol.",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Tokenlon.png"
-    },
-    {
-        "href":"https://ddex.io/margin/",
-        "target":"_blank",
-        "titolo": "DDEX Margin",
-        "descrizione": "Trade with levarage",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/ddex.png"
-    },
-    {
-        "href":"https://instant.airswap.io/swap",
-        "target":"_blank",
-        "titolo": "AirSwap",
-        "descrizione": "Automated trading for ETH tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Airswap.png"
-    },
-    {
-        "href":"https://app.nuo.network/",
-        "target":"_blank",
-        "titolo": "Nuo",
-        "descrizione": "Seamless DeFi Swap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Nuo.png"
+        "titolo": "Cometh",
+        "descrizione": "Game with yield generating NFT",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Cometh.png"
     }
 ]

@@ -1,114 +1,107 @@
 [
     {
-        "href":"https://uniswap.exchange/",
+        "href":"https://bridge.xdaichain.com/",
         "target":"_blank",
-        "titolo": "Uniswap",
-        "descrizione": "Most Popular Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Uniswap.png"
+        "titolo": "xDai Bridge",
+        "descrizione": "Convert xDAI to DAI",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/xdaichain.png"
     },
     {
-        "href":"https://1inch.exchange/",
+        "href":"https://app.levinswap.org/#/swap",
         "target":"_blank",
-        "titolo": "1inch",
-        "descrizione": "Leading DEX Aggregator",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/1inch.png"
+        "titolo": "Levinswap",
+        "descrizione": "Fast &amp; inexpensive DEX on xDAI",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/05/Levinswap.png"
     },
     {
-        "href":"https://pancakeswap.finance/",
+        "href":"https://app.honeyswap.org",
         "target":"_blank",
-        "titolo": "Pancake Swap",
-        "descrizione": "Decentralized Exchange on BSC",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Pancake-Swap.png"
+        "titolo": "Honeyswap",
+        "descrizione": "Decentralized Exchange on xDai",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Honeyswap.png"
     },
     {
-        "href":"https://quickswap.exchange/#/swap",
+        "href":"https://xdai-omnibridge.web.app/",
         "target":"_blank",
-        "titolo": "QuickSwap",
-        "descrizione": "Most Popular DEX on Polygon",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/04/Quickswap.png"
+        "titolo": "Omnibridge",
+        "descrizione": "ERC20 to xDai bridge",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Omnibridge.png"
     },
     {
-        "href":"https://balancer.exchange/",
+        "href":"https://buy.ramp.network/?swapAsset=xDai",
         "target":"_blank",
-        "titolo": "Balancer",
-        "descrizione": "Protocol for programmable liquidity",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Balancer.png"
+        "titolo": "xDai Ramp",
+        "descrizione": "Buy xDai with FIAT money",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Ramp.png"
     },
     {
-        "href":"http://www.cofix.io/",
+        "href":"https://blockscout.com/poa/xdai/",
         "target":"_blank",
-        "titolo": "CoFiX",
-        "descrizione": "On-Chain Market Making",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/10/CoFiX.png"
+        "titolo": "BlockScout",
+        "descrizione": "Full-featured xDai explorer",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Blockscout.png"
     },
     {
-        "href":"https://synthetix.exchange/",
+        "href":"https://unicrypt.network/",
         "target":"_blank",
-        "titolo": "Synthetix",
-        "descrizione": "On-chain exposure to any asset",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Synthetix.png"
+        "titolo": "Unicrypt",
+        "descrizione": "Yield Farming on xDai",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Unicrypt.png"
     },
     {
-        "href":"https://sushiswap.fi/",
+        "href":"https://xion.finance/",
         "target":"_blank",
-        "titolo": "Sushiswap",
-        "descrizione": "Vampire fork of Uniswap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/SushiSwap.png"
+        "titolo": "Xion",
+        "descrizione": "Farming on xDai",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Xion.png"
     },
     {
-        "href":"https://exchange.loopring.io/",
+        "href":"https://xdai.omen.eth.link/#/liquidity",
         "target":"_blank",
-        "titolo": "Loopring",
-        "descrizione": "zkRollup Exchange",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Loopring.png"
+        "titolo": "Omen",
+        "descrizione": "Omen Prediction market",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Omen.png"
     },
     {
-        "href":"https://trade.dydx.exchange/",
+        "href":"https://easy-staking.xdaichain.com/",
         "target":"_blank",
-        "titolo": "Dydx",
-        "descrizione": "Non-custodial trading platform",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Dydx.png"
+        "titolo": "Easy Staking",
+        "descrizione": "Stake on Easy Staking",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/EasyStaking.png"
     },
     {
-        "href":"https://app.bancor.network/eth/data",
+        "href":"https://blockscout.com/poa/xdai/faucet",
         "target":"_blank",
-        "titolo": "Bancor",
-        "descrizione": "Exchange for ERC20 tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Bancor.png"
+        "titolo": "xDai Faucet",
+        "descrizione": "xDai Testnet Faucet",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Faucet_xDai.png"
     },
     {
-        "href":"https://kyberswap.com/",
+        "href":"https://bsc-to-xdai-omnibridge.web.app/",
         "target":"_blank",
-        "titolo": "KyberSwap",
-        "descrizione": "One Exchange. Unlimited Trading",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Swap.png"
+        "titolo": "Xdai to BSC",
+        "descrizione": "xDai to Binance Chain Bridge",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Omnibridge.png"
     },
     {
-        "href":"https://tokenlon.im/instant",
+        "href":"https://blockscout.com/poa/xdai/validators",
         "target":"_blank",
-        "titolo": "Tokenlon",
-        "descrizione": "DEX powered by 0x protocol.",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Tokenlon.png"
+        "titolo": "xDai Staking",
+        "descrizione": "STAKE on the xDai",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/xDai_Staking.png"
     },
     {
-        "href":"https://ddex.io/margin/",
+        "href":"http://make.rare.claims",
         "target":"_blank",
-        "titolo": "DDEX Margin",
-        "descrizione": "Trade with levarage",
+        "titolo": "Rare",
+        "descrizione": "https://alphawallet.com/wp-content/uploads/2021/03/Rare.png",
         "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/ddex.png"
     },
     {
-        "href":"https://instant.airswap.io/swap",
+        "href":"https://1hive.org/#/home",
         "target":"_blank",
-        "titolo": "AirSwap",
-        "descrizione": "Automated trading for ETH tokens",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2020/09/Airswap.png"
-    },
-    {
-        "href":"https://app.nuo.network/",
-        "target":"_blank",
-        "titolo": "Nuo",
-        "descrizione": "Seamless DeFi Swap",
-        "immagine": "https://alphawallet.com/wp-content/uploads/2021/01/Nuo.png"
+        "titolo": "1Hive",
+        "descrizione": "Honey Community Currency",
+        "immagine": "https://alphawallet.com/wp-content/uploads/2021/02/Honeyswap.png"
     }
 ]
