@@ -1,4 +1,4 @@
-# wallydex
+# WallyDex
 
 Wally is a new pocket Wallet
 
