@@ -463,7 +463,7 @@ let CoinService = class CoinService {
         this.baseUrl = 'https://api.coingecko.com/api/v3';
     }
     load() {
-        return this.http.get(`${this.baseUrl}/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false`)
+        return this.http.get(`${this.baseUrl}/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=1000&page=1&sparkline=false`)
             .toPromise();
     }
     loadOne(id) {
